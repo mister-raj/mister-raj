@@ -2,7 +2,7 @@
 
 MBA @ IIT Kanpur | Transitioning from **Tech > Finance** and Analytics | 
 
-Former: Senior Assistant Engineer @ Samsung Display
+Former: Senior Assistant Engineer @ Samsung Display https://www.samsungdisplay.com/eng/index.jsp
 
 Currently working on: Financial modeling systems.
 
